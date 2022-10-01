@@ -26,7 +26,7 @@ public class HomeWorkApp {
     }
     private static void printColor() {
         int value;
-        value = 999;
+        value = 989;
         if (value <= 0) {
             System.out.println("Красный\n");
         }
@@ -38,7 +38,7 @@ public class HomeWorkApp {
         }
     }
     private static void compareNumbers() {
-        int a = 111;
+        int a = 110;
         int b = 11;
         if (a >= b){
             System.out.println("a >= b\n");
