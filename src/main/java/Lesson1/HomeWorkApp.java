@@ -30,7 +30,7 @@ public class HomeWorkApp {
         if (value <= 0) {
             System.out.println("Красный\n");
         }
-        if (value > 0 & value <= 70) {
+        if (value > 0 & value <= 69) {
             System.out.println("Желтый\n");
         }
         if (value > 99) {
